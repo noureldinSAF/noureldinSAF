@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**noureldinSAF/noureldinSAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity researcher and bug bounty hunter passionate about uncovering vulnerabilities and developing reconnaissance tools.
 
-Here are some ideas to get you started:
+- 🔍 I maintain **AutoHunting**, a modular Go-based reconnaissance framework for automating subdomain discovery, port scanning, service fingerprinting, and more.
+- 📘 I curate **Go Syntax & Notes** – a collection of Go language snippets and patterns tailored for building security tools.
+- 🕵️ I hunt for vulnerabilities across web applications, APIs, and infrastructure, and share my findings through write-ups and open-source contributions.
+- 🌱 Currently learning advanced Go patterns, cloud security, and exploring new recon techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Highlights
+
+- Developed custom enumeration modules integrated into my recon tool.
+- Discovered and responsibly disclosed vulnerabilities in several platforms.
+- Active participant in bug bounty programs and CTF competitions.
+
+## 💌 Get in touch
+
+- Email: youremail@example.com
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+
+Thanks for visiting!
