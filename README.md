@@ -15,7 +15,7 @@ I'm a cybersecurity researcher and bug bounty hunter passionate about uncovering
 
 ## 💌 Get in touch
 
-- Email: eldeennoor207@gmail.com
+- Email: noureldinfarhana@gmail.com
 - LinkedIn: https://www.linkedin.com/in/noureldin-shaban-20176b240
 
 Thanks for visiting!
